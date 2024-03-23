@@ -2,7 +2,7 @@
 
 Authors: Ahmed Sherif, Maya Winters Faaborg, Cheng Zeng
 
-This repository contains G-code for automating the motion of the machine described in the paper “Braiding, twisting, and weaving microscale fibers with capillary forces” by Ahmed Sherif, Maya Winters Faaborg, Cheng Zeng, Michael P. Brenner, and Vinothan N. Manoharan
+This repository contains G-code for automating the motion of the machine described in the paper “Braiding, twisting, and weaving microscale fibers with capillary forces” by Ahmed Sherif, Maya Winters Faaborg, Cheng Zeng, Michael P. Brenner, and Vinothan N. Manoharan Soft Matter, 2024, DOI: 10.1039/D3SM01732J 
 
 These materials are licensed under a GNU GENERAL PUBLIC LICENSE (GPL-3.0).
 
